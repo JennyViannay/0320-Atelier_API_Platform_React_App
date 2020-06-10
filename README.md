@@ -8,5 +8,5 @@
 
 ### In app folder :
 
-- run ```npm install``
+- run ```npm install```
 - run ```npm start```
